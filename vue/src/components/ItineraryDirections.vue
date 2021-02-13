@@ -67,7 +67,7 @@ export default {
       waypoints: "",
 
       url:
-        "https://www.google.com/maps/embed/v1/directions?key=AIzaSyB5uhVBlG2NKfe8pT0rGiTpBkOr2JJjgLg",
+        "https://www.google.com",
     };
   },
   methods: {
